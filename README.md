@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a computer nerd learning computer science by myself.
+I'm a computer nerd learning the ins and outs of computer science all by myself.
 
-- 🔭 I’m currently working on my [Android apps](https://play.google.com/store/apps/dev?id=5376229914488111629).
+- 🔭 I’m currently working with/learning Android development. I know Java, Kotlin, and Python and vacation C++ 😁
 - 💬 Ask me about mobile, linux, or anything random.
-- 😎 Feel free to reach me on [Twitter](https://twitter.com/Naveen3Singh), [Reddit](https://reddit.com/u/NaveenSinghOfficial) or anywhere!
+- 😎 Feel free to reach me on [Twitter](https://twitter.com/Naveen3Singh) or anywhere you can find me!
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I live in the country side far from cities and I never went to college.
 
