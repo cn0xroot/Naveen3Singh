@@ -2,7 +2,7 @@
 
 I'm a computer nerd learning the ins and outs of computer science all by myself.
 
-- 🔭 I’m currently working with/learning Android development. I know Java, Kotlin, and Python and vacation C++ 😁
+- 🔭 I’m currently working with/learning Android development. I know Java, Kotlin, Python and vacation C++ 😁
 - 💬 Ask me about mobile, linux, or anything random.
 - 😎 Feel free to reach me on [Twitter](https://twitter.com/Naveen3Singh) or anywhere you can find me!
 - 😄 Pronouns: He/Him/His
