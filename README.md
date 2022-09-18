@@ -15,4 +15,5 @@ I'm a computer nerd learning the ins and outs of computer science all by myself.
   <img src="https://profile-counter.glitch.me/Naveen3Singh/count.svg" />
 </p>
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/paypalme/naveen3singh?country.x=IN&locale.x=en_GB)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/naveen3singh?country.x=IN&locale.x=en_GB)
+
